@@ -1,0 +1,9 @@
+ OX     XO     OX     OX     OX     XOXOXOX
+ XOO    XOX    XOO    OXX    OXO   XOXOX  
+         X OX   O XO  XX OX  OO XO XOX OX 
+                 O     OXX   XXOO  XOOXX  
+       XO     OX O   XOOXX  OXXOO  XOOXX  
+      OXO    XOX O  OXOOXX XOXXOO OXOOXX X
+  OO    XXX    OOXX   XXOO   OOXX  XOXOO  
+X OO  XOXXX  OXOOXX XOXXOO OXOOXX XXOXOO O
+OX X O XO OXX OX XOO OX OXX OX XOO XOXOXOX
